@@ -1,0 +1,483 @@
+[
+  
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#003",
+    "make": "Chevrolet",
+    "model": "Mustang",
+    "year": 2025,
+    "color": "Green",
+    "rented": false,
+    "price": 27
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#004",
+    "make": "Chevrolet",
+    "model": "Camry",
+    "year": 2025,
+    "color": "Black",
+    "rented": false,
+    "price": 24
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#005",
+    "make": "Chevrolet",
+    "model": "Civic",
+    "year": 2024,
+    "color": "Black",
+    "rented": false,
+    "price": 16
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#006",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2025,
+    "color": "Green",
+    "rented": true,
+    "price": 27
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#007",
+    "make": "Chevrolet",
+    "model": "Camry",
+    "year": 2024,
+    "color": "White",
+    "rented": true,
+    "price": 12
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2024#008",
+    "make": "Nissan",
+    "model": "Impala",
+    "year": 2023,
+    "color": "Blue",
+    "rented": false,
+    "price": 20
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#009",
+    "make": "Honda",
+    "model": "Altima",
+    "year": 2024,
+    "color": "Red",
+    "rented": true,
+    "price": 12
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#010",
+    "make": "Toyota",
+    "model": "Civic",
+    "year": 2025,
+    "color": "Red",
+    "rented": true,
+    "price": 23
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#011",
+    "make": "Honda",
+    "model": "Mustang",
+    "year": 2024,
+    "color": "Red",
+    "rented": true,
+    "price": 46
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#012",
+    "make": "Chevrolet",
+    "model": "Altima",
+    "year": 2024,
+    "color": "White",
+    "rented": false,
+    "price": 31
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2024#013",
+    "make": "Honda",
+    "model": "Camry",
+    "year": 2024,
+    "color": "Blue",
+    "rented": false,
+    "price": 20
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2024#014",
+    "make": "Chevrolet",
+    "model": "Mustang",
+    "year": 2023,
+    "color": "Red",
+    "rented": false,
+    "price": 23
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2024#015",
+    "make": "Chevrolet",
+    "model": "Mustang",
+    "year": 2024,
+    "color": "Red",
+    "rented": false,
+    "price": 41
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#016",
+    "make": "Nissan",
+    "model": "Mustang",
+    "year": 2025,
+    "color": "Blue",
+    "rented": true,
+    "price": 17
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#017",
+    "make": "Chevrolet",
+    "model": "Mustang",
+    "year": 2025,
+    "color": "Blue",
+    "rented": false,
+    "price": 36
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#018",
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2024,
+    "color": "Red",
+    "rented": false,
+    "price": 50
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#019",
+    "make": "Toyota",
+    "model": "Altima",
+    "year": 2023,
+    "color": "Black",
+    "rented": true,
+    "price": 30
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#020",
+    "make": "Nissan",
+    "model": "Civic",
+    "year": 2024,
+    "color": "Black",
+    "rented": false,
+    "price": 43
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#021",
+    "make": "Chevrolet",
+    "model": "Mustang",
+    "year": 2023,
+    "color": "Black",
+    "rented": true,
+    "price": 24
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#022",
+    "make": "Toyota",
+    "model": "Mustang",
+    "year": 2025,
+    "color": "Blue",
+    "rented": false,
+    "price": 14
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2024#023",
+    "make": "Ford",
+    "model": "Camry",
+    "year": 2024,
+    "color": "Blue",
+    "rented": true,
+    "price": 39
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#024",
+    "make": "Toyota",
+    "model": "Impala",
+    "year": 2025,
+    "color": "Blue",
+    "rented": false,
+    "price": 19
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#025",
+    "make": "Ford",
+    "model": "Civic",
+    "year": 2023,
+    "color": "Green",
+    "rented": true,
+    "price": 46
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#026",
+    "make": "Toyota",
+    "model": "Civic",
+    "year": 2024,
+    "color": "Black",
+    "rented": true,
+    "price": 12
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2024#027",
+    "make": "Chevrolet",
+    "model": "Altima",
+    "year": 2023,
+    "color": "Green",
+    "rented": true,
+    "price": 14
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#028",
+    "make": "Toyota",
+    "model": "Impala",
+    "year": 2025,
+    "color": "Blue",
+    "rented": false,
+    "price": 47
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#029",
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2025,
+    "color": "Red",
+    "rented": false,
+    "price": 32
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#030",
+    "make": "Ford",
+    "model": "Impala",
+    "year": 2025,
+    "color": "Black",
+    "rented": false,
+    "price": 32
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#031",
+    "make": "Ford",
+    "model": "Camry",
+    "year": 2025,
+    "color": "Green",
+    "rented": false,
+    "price": 35
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#032",
+    "make": "Honda",
+    "model": "Mustang",
+    "year": 2023,
+    "color": "Red",
+    "rented": false,
+    "price": 21
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#033",
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2024,
+    "color": "Green",
+    "rented": false,
+    "price": 38
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2024#034",
+    "make": "Toyota",
+    "model": "Civic",
+    "year": 2025,
+    "color": "Blue",
+    "rented": false,
+    "price": 20
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#035",
+    "make": "Nissan",
+    "model": "Camry",
+    "year": 2025,
+    "color": "Red",
+    "rented": false,
+    "price": 37
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#036",
+    "make": "Toyota",
+    "model": "Civic",
+    "year": 2025,
+    "color": "Green",
+    "rented": true,
+    "price": 39
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#037",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2025,
+    "color": "Blue",
+    "rented": false,
+    "price": 34
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#038",
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2024,
+    "color": "Black",
+    "rented": false,
+    "price": 35
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2024#039",
+    "make": "Honda",
+    "model": "Camry",
+    "year": 2024,
+    "color": "Black",
+    "rented": false,
+    "price": 27
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#040",
+    "make": "Ford",
+    "model": "Impala",
+    "year": 2025,
+    "color": "White",
+    "rented": true,
+    "price": 10
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2024#041",
+    "make": "Chevrolet",
+    "model": "Mustang",
+    "year": 2023,
+    "color": "White",
+    "rented": false,
+    "price": 26
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#042",
+    "make": "Ford",
+    "model": "Impala",
+    "year": 2024,
+    "color": "Black",
+    "rented": false,
+    "price": 19
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#043",
+    "make": "Honda",
+    "model": "Camry",
+    "year": 2025,
+    "color": "Blue",
+    "rented": false,
+    "price": 37
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#044",
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2023,
+    "color": "Red",
+    "rented": true,
+    "price": 26
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#045",
+    "make": "Toyota",
+    "model": "Mustang",
+    "year": 2024,
+    "color": "Red",
+    "rented": true,
+    "price": 15
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#046",
+    "make": "Chevrolet",
+    "model": "Civic",
+    "year": 2025,
+    "color": "White",
+    "rented": false,
+    "price": 11
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#047",
+    "make": "Toyota",
+    "model": "Altima",
+    "year": 2025,
+    "color": "White",
+    "rented": false,
+    "price": 17
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#048",
+    "make": "Toyota",
+    "model": "Altima",
+    "year": 2025,
+    "color": "Green",
+    "rented": false,
+    "price": 42
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#049",
+    "make": "Toyota",
+    "model": "Mustang",
+    "year": 2025,
+    "color": "White",
+    "rented": false,
+    "price": 27
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2025#050",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2023,
+    "color": "Black",
+    "rented": true,
+    "price": 31
+  }
+]

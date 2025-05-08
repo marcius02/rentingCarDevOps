@@ -1,0 +1,43 @@
+{
+  "userId_PK": "USER#2024#001",
+  "operation_SK": "booking#2025#001",
+  "car" : {
+  "delegationId": "DELEG#001",
+  "operation": "car#2025#001",
+  "make": "Toyota",
+  "model": "Camry",
+  "year": 2025,
+  "color": "Blue",
+  "isRented": false,
+  "price": 40000
+},
+  "status": "ACTIVE",
+  "startDate": "2025-10-01",
+  "endDate": "2025-10-07",
+"totalToPayment" : 456.56,
+"statusPayment" : "PAID",
+"statusBooking" : "CREATED",
+"pickUpDelegation" : {
+  "delegationId": "DELEG#001",
+  "operation": "profile",
+  "name": "Barcelona Central",
+  "address": "Carrer de la Marina, 15",
+  "city": "Barcelona",
+  "availableCarQty": 12,
+  "phone": "+34 931 234 567",
+  "email": "central@renting.com"
+},
+"deliverDelegation" : {
+  "delegationId": "DELEG#001",
+  "operation": "profile",
+  "name": "Barcelona Central",
+  "address": "Carrer de la Marina, 15",
+  "city": "Barcelona",
+  "availableCarQty": 12,
+  "phone": "+34 931 234 567",
+  "email": "central@renting.com"
+}
+
+
+}
+
