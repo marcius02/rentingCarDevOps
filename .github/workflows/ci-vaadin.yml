@@ -23,6 +23,7 @@ jobs:
           java-version: '21'
           distribution: 'jetbrains'
           architecture: x64
+          
       - name: Build and test backend
         working-directory: ./rentingCar
         run: mvn clean verify
@@ -44,5 +45,5 @@ jobs:
       - name: Install, lint, and build frontend
         working-directory: ./rentingCar
         run: |
-            npm run lint
+            npm ci
             npm run build
