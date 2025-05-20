@@ -24,9 +24,9 @@ jobs:
           distribution: 'jetbrains'
           architecture: x64
           
-      - name: Build and test backend
+      - name: Build and test backend (and generate frontend files)
         working-directory: ./rentingCar
-        run: mvn clean verify
+        run: mvn clean verify -Pproduction
 
   build-frontend:
     needs: build-backend
@@ -42,8 +42,8 @@ jobs:
         with:
           node-version: '20.x'
       
-      - name: Install, lint, and build frontend
+      - name: Install dependencies and build frontend
         working-directory: ./rentingCar
         run: |
-            npm ci
-            npm run build
+          npm ci
+          npm run build
