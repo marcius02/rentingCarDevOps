@@ -168,6 +168,8 @@
     "react-router-dom": "$react-router-dom"
   },
   "scripts": {
+    "hilla:generate": "hilla generate",
+    "prebuild": "npm run hilla:generate",
     "build": "vite build"
   }
 }
