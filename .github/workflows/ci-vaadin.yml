@@ -24,6 +24,12 @@ jobs:
           distribution: 'jetbrains'
           architecture: x64
           
+      - name: Upload vite.generated.ts
+        uses: actions/upload-artifact@v4
+        with:
+          name: vite-generated
+          path: rentingCar/vite.generated.ts
+          
       - name: Build and test backend (and generate frontend files)
         working-directory: ./rentingCar
         run: mvn clean verify -Pproduction
@@ -41,7 +47,13 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20.x'
-      
+          
+      - name: Download vite.generated.ts
+        uses: actions/download-artifact@v4
+        with:
+          name: vite-generated
+          path: rentingCar
+          
       - name: Install dependencies and build frontend
         working-directory: ./rentingCar
         run: |
